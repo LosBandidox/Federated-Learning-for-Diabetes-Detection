@@ -25,7 +25,7 @@ A privacy-preserving system that enables hospitals to collaboratively train diab
 ```bash
 # Clone repo
 git clone https://github.com/LosBandidox/Federated-Learning-for-Diabetes-Detection
-cd federated_learning
+cd Federated-Learning-for-Diabetes-Detection
 
 # Set up Python
 python -m venv venv
