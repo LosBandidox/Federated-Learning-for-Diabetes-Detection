@@ -24,7 +24,7 @@ A privacy-preserving system that enables hospitals to collaboratively train diab
 
 ```bash
 # Clone repo
-git clone https://github.com/ManNjoro/federated_learning.git
+git clone https://github.com/LosBandidox/Federated-Learning-for-Diabetes-Detection
 cd federated_learning
 
 # Set up Python
@@ -82,4 +82,4 @@ Access: `http://localhost:5173` # Your port could be different
 
 ## 📬 Contact
 
-For questions or collaborations, please open an issue or contact [elijohnmwoho@gmail.com].
+For questions or collaborations, please open an issue or contact [elijohnmwoho@gmail.com/davidkimathi670@gmail.com].
